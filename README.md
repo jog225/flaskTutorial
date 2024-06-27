@@ -36,3 +36,6 @@
 
 - To filter Users by username:
   -  User.query.filter_by(username = 'Enter username').all()
+ 
+## Tutorial
+- https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&si=9SpFJt_YB9aBHsrH
