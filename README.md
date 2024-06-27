@@ -8,3 +8,6 @@
 - To open debugger:
   - Windows: set FLASK_DEBUG = 1
   - Mac: export FLASK_DEBUG = 1
+ 
+## Tutorial
+- https://youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&si=9SpFJt_YB9aBHsrH
